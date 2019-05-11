@@ -4,7 +4,7 @@ Alan Wilms & Yunhua Zhao
 CS3281: Reslilient Distributed Systems Fall 2018
 
 ## Overview
-We have created a decentralized chat application using Python and a number of libraries. The chat application features RSA-AES encryption, custom user and roomnames, both multi-user group chats and two person chats, a room joining permission system, and a full stored chat hustory. This application is backed by strong resiliency by leveraging ETCD, which is a popular distributed key-value store that uses the Raft consensus algorithm.
+We have created a decentralized chat application using Python and a number of libraries. The chat application features RSA-AES encryption, custom user and roomnames, both multi-user group chats and two person chats, a room joining permission system, and a full stored chat history. This application is backed by strong resiliency by leveraging ETCD, which is a popular distributed key-value store that uses the Raft consensus algorithm.
 
 The project is separated into two major parts:
 1. Client (`basic_client.py`)
