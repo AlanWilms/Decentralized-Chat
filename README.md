@@ -1,5 +1,6 @@
 # group-project-NOP
 Decentralized Chat Application
+Initially done as a part of Vanderbilt's Resilient Distributed Computation Class (Fall 2018)
 
 ## Components:
 [Initial Write-Up](./docs/writeup.md)
