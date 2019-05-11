@@ -1,5 +1,6 @@
 # Decentralized Chat Application Using ETCD
 Initially done as a part of Vanderbilt's Resilient Distributed Computation Class (Fall 2018)
+
 Co-authored by [Yunhua Zhao](https://github.com/yunhua98)
 
 ## Components:
